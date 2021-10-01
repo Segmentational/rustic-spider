@@ -21,3 +21,8 @@ cargo build
 cargo install --path "."
 ```
 
+### Execution ###
+
+```bash
+cargo run
+```
